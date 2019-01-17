@@ -1,21 +1,41 @@
 {
 	"Actors": {
 		"Character" : {
-			"HP": 10
+			"HP": 10,
+			"Description": "Sicko Mode"
 		},
-		"Goblin" : {
-			"HP": 4
+		"Spanish Goblin" : {
+			"HP": 4,
+			"Description":"or"
 		},
 		"Giant" : {
-			"HP": 40
+			"HP": 40,
+			"Description":"Mo Bamba"
 		},
 		"Hobgoblin" : {
-			"HP": 10
+			"HP": 10,
+			"Description":"huh"
 		}
 	},
 	"Weapons": {
 		"Short Sword" : {
-			"Damage": 3
+			"Damage": 3,
+			"Description": "Jordan"
+
+		},
+		"Golden Scar": {
+			"Damage": 29,
+			"Description":"is"
+		},
+		"Dominic's Catapult":{
+			"Damage": 200,
+			"Description": "crying"
+		}
+	},
+	"Why Jordan is so sad": {
+		"Watching sad anime": {
+			"Your Lie in April": "the girl dies",
+			"Probably something else": "who knows"
 		}
 	}
 }
