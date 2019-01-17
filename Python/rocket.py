@@ -52,7 +52,7 @@ def rocket_head_and_tail():
 
 def rocket_body():
 	# TODO: Add code here.
-	return "\n|     |\n|     |\n|     |\n|     |\n======="
+	return "\n=======\n|     |\n|     |\n|     |\n|     |\n======="
 
 if __name__ == '__main__':
     main()
