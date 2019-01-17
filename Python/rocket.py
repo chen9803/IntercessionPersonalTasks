@@ -48,11 +48,11 @@ def main():
 	print(rocket)
 
 def rocket_head_and_tail():
-	return "   *\n  * *\n *   *\n*     *"
+	return "\n   *\n  * *\n *   *\n*     *"
 
 def rocket_body():
 	# TODO: Add code here.
-	return ""
+	return "\n|     |\n|     |\n|     |\n|     |\n======="
 
 if __name__ == '__main__':
     main()
